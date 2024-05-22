@@ -33,7 +33,13 @@
 
 </td><td valign="top" width="33%">
 
+### Backend  
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
 
+
+</td><td valign="top" width="33%">
 
 ### Others  
 <div align="center">  
@@ -47,19 +53,31 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
 </td></tr></table>  
 
 <br/>  
 
+
+
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rasel-093&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-093&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" align="center" />
+  
+</div>  
+
+<br/>   
+  
+
+<br/>  
+
+
+<br />
 
 ## Connect with me  
 <div align="center">
@@ -73,21 +91,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rasel-093&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>   
-  
-
-<br/>  
-
-
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
