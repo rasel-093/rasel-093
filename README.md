@@ -3,20 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Md. Rasel Rahman, a part time android developer 👨‍💻 working remotely since 2023 🚀</div>  
-  
+### <div align="left">Hi, I'm Md. Rasel Rahman — a passionate Android developer 👨‍💻 building native apps since 2023 🚀</div>  
 
-- 🔭 I’m currently working on Native Android Development  
-  
-
-- 🌱 I’m currently learning Machine Learning  
-  
-
-- ❓ Ask me about anything related to Kotlin, Jetpack Compose and Native Android Development  
-  
-
-<br/>  
-
+- 🔭 Focused on Native Android Development using Kotlin and Jetpack Compose  
+- 💡 Experienced in integrating ML models into Android apps
+- 🧩 Exploring cross-platform development with Flutter  
+- 💬 Open to discussions on Android architecture, UI/UX, state management, and app optimization  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
